@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@google/genai": "^1.14.0",
+    "@google/generative-ai": "^0.24.1",
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.17.0",
+    "node": "^22.18.0",
+    "node-fs": "^0.1.7",
+    "nodemon": "^3.1.10",
+    "router": "^2.2.0"
+  }
+}
