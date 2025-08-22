@@ -14,7 +14,7 @@ app.use(cors({
 app.use(express.json());
 app.use(cookieParser());
 
-app.use("/user",authRouter);
+app.use("/",authRouter);
 
 app.use("/course",Courserouter);
 app.use("/feedback",Feedback);
